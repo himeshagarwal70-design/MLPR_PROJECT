@@ -47,7 +47,7 @@ We apply this "Hybrid-5" logic to three areas:
 
 ## 3. Integrity Measures (No-Loophole Pipeline)
 
-Financial data is famous for "Data Leakage"—where a model accidentally "cheats" by looking at the future. This pipeline uses three strict protocols to ensure the results are honest and tradable:
+Financial data is famous for "Data Leakage" where a model accidentally "cheats" by looking at the future. This pipeline uses three strict protocols to ensure the results are honest and tradable:
 
 ### I. Cross-Fund Deduplication
 
