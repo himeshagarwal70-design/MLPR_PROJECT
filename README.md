@@ -91,7 +91,7 @@ Standard accuracy (like R-squared) is often misleading in finance. We use indust
 2. **Prepare Data:** Ensure `clean_mf_dataset.csv` is in the root directory.
 3. **Execute Pipeline:** Run `MLPR_Final_Pipeline.ipynb`.
 * The notebook will automatically perform the Walk-Forward Cross-Validation.
-* It will generate the final "Loss Curves" and "Performance Tables."
+
 
 
 
