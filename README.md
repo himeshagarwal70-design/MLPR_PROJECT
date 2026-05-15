@@ -71,7 +71,7 @@ We use a **Residual Ensemble** consisting of three models:
 
 1. **Ridge Regression:** A linear model that uses L2 Regularization to ignore noisy, redundant features.
 2. **Random Forest:** A non-linear "bagging" model that looks for complex interactions between features.
-3. **XGBoost:** The "Boss" model—a gradient boosting algorithm specifically tuned with high penalties (L1/L2) to prevent overfitting in the noisy financial environment.
+3. **XGBoost:** a gradient boosting algorithm specifically tuned with high penalties (L1/L2) to prevent overfitting in the noisy financial environment.
 
 ---
 
