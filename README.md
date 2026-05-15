@@ -1,5 +1,6 @@
 # MLPR_PROJECT
 semester 4 endsemester project
+Rahil Shah,Himesh Agarwal,Sahil Patel
 # Volatility Forecasting: Leveling Up Risk Prediction
 
 ### A Quantitative ML Pipeline for Financial Risk Management
